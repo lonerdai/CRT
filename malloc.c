@@ -48,7 +48,6 @@ void* malloc(unsigned size){
 
 	header = list_header;
 	while(header!=0){
-		
 	}
 }
 
